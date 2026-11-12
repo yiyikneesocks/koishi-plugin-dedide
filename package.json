@@ -1,0 +1,7 @@
+{
+  "name": "@azulores/koishi-plugin-dedide",
+  "description": "[DEPRECATED] split into koishi-plugin-chatlog + koishi-plugin-group-gags + koishi-plugin-wordcloud",
+  "version": "1.1.0",
+  "deprecated": "Split into koishi-plugin-chatlog (collection+DB+catchup), koishi-plugin-group-gags (greeting/wen/fudu/mock) and koishi-plugin-wordcloud. Install those instead.",
+  "private": true
+}
